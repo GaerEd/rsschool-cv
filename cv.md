@@ -1,4 +1,4 @@
-![photoResume](photoResume.jpeg)
+<img src="photoResume.jpeg" width="200"/>
 
 ## 1. Gaer Eduard
 
